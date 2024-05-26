@@ -6,10 +6,11 @@ Auto-complete is an artificial intelligence technology that automatically sugges
 
 While there are many modern tools available, here we will discuss a foundational technology that underpins these new advancements. This classic technology is mentioned in the Coursera course: [Natural Language Processing](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing).
 
-I will build a system almost similar to google's, it is used to illustrate the technique I am using, I just use python's steamlit library.
-
-* Run app.py:
+## Streamlit web
     + streamlit run app.py
+
+I built a system almost similar to google's, it's used to illustrate the technique I'm using, I just used python's steamlit library.
+
 
 <img src="illustration/auto_complete.gif">
 
