@@ -7,9 +7,11 @@ Auto-complete is an artificial intelligence technology that automatically sugges
 While there are many modern tools available, here we will discuss a foundational technology that underpins these new advancements. This classic technology is mentioned in the Coursera course: [Natural Language Processing](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing).
 
 I will build a system almost similar to google's, it is used to illustrate the technique I am using, I just use python's steamlit library.
-    + Run app.py: streamlit run app.py
-<img src="illustration/auto_complete.gif">
 
+* Run app.py:
+    + streamlit run app.py
+
+<img src="illustration/auto_complete.gif">
 
 ## Technology: N-Gram
 
@@ -27,6 +29,8 @@ Once we have the N-gram data set (N can be 1, 2, 3, 4, etc., depending on the se
 <img src="illustration/formula.png">
 
 The formula may seem complex, but here is a simplified example:
+
+<img src="illustration/prob.png">
 
 The current probabilities are equal, meaning any word in: programming, pizza, or to could be the next word following the 2-gram "I love". If your data contains a word with the highest probability, it is the best choice to become the next word after "I love" (suggestion system).
 
