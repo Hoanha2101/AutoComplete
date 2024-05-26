@@ -41,7 +41,9 @@ In practice, different variations of the probability formula are used. Here, we 
 
 <img src="illustration/formula2.png">
 
-    I have prepared a Vietnamese version for Vietnamese friends [🇻🇳] to easily refer to: Language_Models_Auto_Complete_Documentation.docx
+## Additional
+I have prepared a Vietnamese version for Vietnamese friends [🇻🇳] to easily refer to: 
+    Language_Models_Auto_Complete_Documentation.docx
 
 ## Contact
     UI Specialist: Ha Khai Hoan
