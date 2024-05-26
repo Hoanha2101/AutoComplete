@@ -6,11 +6,12 @@ Auto-complete is an artificial intelligence technology that automatically sugges
 
 While there are many modern tools available, here we will discuss a foundational technology that underpins these new advancements. This classic technology is mentioned in the Coursera course: [Natural Language Processing](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing).
 
+I will build a system almost similar to google's, it is used to illustrate the technique I am using, I just use python's steamlit library.
+    + Run app.py: streamlit run app.py
 <img src="illustration/auto_complete.gif">
 
-## Technology: N-Gram
 
-### 1. N-gram Model
+## Technology: N-Gram
 
 An N-gram is a contiguous sequence of n words from a given text. For example:
 
@@ -38,4 +39,4 @@ In practice, different variations of the probability formula are used. Here, we 
 ## Contact
     + UI Specialist: Ha Khai Hoan
     + Email: khaihoan.ai@gmail.com
-    + [GitHub](https://github.com/Hoanha2101)
+    + GitHub: [Hoanha2101](https://github.com/Hoanha2101)
