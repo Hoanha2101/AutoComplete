@@ -9,7 +9,7 @@ While there are many modern tools available, here we will discuss a foundational
 ## Streamlit web
     streamlit run app.py
 
-I built a system almost similar to google's, it's used to illustrate the technique I'm using, I just used python's steamlit library.
+I built a system almost similar to google's, it's used to illustrate the technique I'm using, I just used python's streamlit library.
 
 
 <img src="illustration/auto_complete.gif">
